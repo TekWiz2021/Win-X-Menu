@@ -12,3 +12,6 @@ and added them to the Desktop.ini of group 1
 
 Then using the Win X Editor I could add New Items and everything was in group 1
 I added a photo... of the Menu I edited.
+
+group 1 can be found  C:\Users\Admin\AppData\Local\Microsoft\Windows\WinX\group1
+with all the links. I moved group2 and group3 to group1 and modified the the desktop.ini
