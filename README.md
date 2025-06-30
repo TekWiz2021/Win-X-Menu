@@ -1,4 +1,4 @@
-# Win-X-Menu
+# Win-X-Menu Windows 11 24H2
 I accidently deleted the Folder for PowerShell in the Win + X Menu... I got rid of the Bad Links.
 
 I downloaded the Win X Editor but even if I deleted the PowerShell Links
